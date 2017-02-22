@@ -1,4 +1,4 @@
-Sentiment analysis of Google autosuggestion for presidential candidates Hillary Clinton and Donald Trump （May 2016）
+Sentiment analysis of Google autosuggestion results for presidential candidates （May 2016)
 
 Could Google autosuggestion shift voting preference? This is the question I wants to know. 
 
